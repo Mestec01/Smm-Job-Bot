@@ -4,7 +4,7 @@ import time
 import random
 from datetime import datetime
 #your email
-email='youremail@gmail.com'
+email='webshow@zoomops.de
 #password
 password='your jobs.smmshop.com password'
 
